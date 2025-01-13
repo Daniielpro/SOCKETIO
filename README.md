@@ -35,7 +35,7 @@ SOCKETIO/
 To clone this repository, use the following command:
 
  ```bash
- git clone https://github.com/tu_usuario/socketio-chat.git
+ git clone https://github.com/Daniielpro/SOCKETIO.git
 
  ```
 
